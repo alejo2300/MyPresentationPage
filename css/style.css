@@ -1,0 +1,55 @@
+/*------------------HTML defailt------------------*/
+body{
+    
+    margin: 0px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1{
+    font-family: 'Antic Slab', serif;
+    margin: 15px auto 0px;
+    width: 25%;
+}
+
+p{
+    margin: 0px auto;
+    width: 75%;
+}
+
+/*------------------------CLASS--------------------*/
+
+.top-container{
+    background-color: mediumaquamarine;
+    padding-top: 30px;
+}
+
+.whoAmI{
+   margin: 0px auto;
+   width: 25%;
+}
+
+.topCloud{
+    position: relative;
+    left: 160px;
+    top: 50px;
+}
+
+.bottomCloud{
+    position: absolute;
+}
+
+.mountain{
+    padding-bottom: 30px;
+}
+
+.myPhoto{
+    padding-top: 20px;
+    height: 25%;
+    width: 25%;
+}
+
+.skillImg{
+    width: 200px;
+    height: 200px;
+}
